@@ -11,7 +11,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://portfolio-git-main-alins-projects-4385b1e5.vercel.app",
+        "APP_URL": "https://portfolio-git-main-alins-projects-4385b1e5.vercel.app.com",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
